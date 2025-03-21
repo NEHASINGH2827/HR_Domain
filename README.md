@@ -15,3 +15,5 @@ The test set should be used to see how well your model performs on unseen data. 
 # Metric to measure:
 Accuracy is the metric to measure the performance.
 Accuracy= (TP+TN)/(TP+TN+FP+FN)
+
+# Also we will be trying the same pipeline to work on different datasets : housing data and diabetes data
